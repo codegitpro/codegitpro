@@ -25,9 +25,11 @@ Creative web developer dedicated to building and optimizing the performance of h
 
 As the Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=planetoftheweb)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's's github stats](https://github-readme-stats.vercel.app/api?username=codegitpro)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=planetoftheweb&hide=php,ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegitpro&show_icons=true&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=codegitpro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Content
 - [LinkedIn Profile](https://www.linkedin.com/in/michael-jin-dev)

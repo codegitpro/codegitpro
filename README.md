@@ -1,4 +1,4 @@
-![Photo](./assets/img/github-bg.png)
+![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
 
 OVERVIEW
 

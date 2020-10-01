@@ -1,6 +1,21 @@
-![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
+![Photo](./assets/img/github-bg.png)
 
-Ray Villalobos is a full-stack design/development teacher and Senior Staff Author at [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos). His courses are focused on full-stack development topics like [JavaScript](https://www.linkedin.com/learning/mastering-web-developer-interview-code?u=104), [React](https://www.linkedin.com/learning/react-spas?u=104), [Svelte](https://www.linkedin.com/learning/svelte-first-look?u=104), [Vue](https://www.linkedin.com/learning/vue-js-working-with-apis?u=104), [Sass](https://www.linkedin.com/learning/bootstrap-4-with-sass?u=104) plus frameworks like [Bootstrap](https://www.linkedin.com/learning/bootstrap-4-essential-training?u=104) and tools that can make you a faster, more efficient developer. He approaches teaching with a clear and practical style which can help you improve your skills through real-world exercises and projects. 
+OVERVIEW
+
+Senior full-stack developer with over 9 years of experience building high performing presentations, layers, building reusable components, and performance optimization with JavaScript, Typescript, HTML, CSS, back-end experience with Node.js, PHP, Python. Specialized in building 20+ usable, useful, well-constructed websites and applications using React, Angular, and Vue. About 2 projects, implemented 10k+ users with well-designed user interface components and the overall applications are robust, easy to maintain, and resolved 1k+ errors in the presented app.
+
+WHAT I DO
+
+Creative web developer dedicated to building and optimizing the performance of high-impact websites for nationwide and global companies. Leverage technical, analytical, and problem-solving skills to create dynamic, high-speed websites, apps, and platforms fueling competitive advantage and revenue growth.
+
+ACHIEVEMENTS
+
+- Excellent Frontend Development
+- SAAS Platform Development
+- Payment Integration Including Paypal, Stripe
+- Mobile App (iOS/Android) development
+- DB Design, Delivery
+- Backend Development 
 
 As the Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
 
@@ -9,9 +24,6 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=planetoftheweb&hide=php,ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Content
-- [LinkedIn Courses](https://www.linkedin.com/learning/instructors/ray-villalobos)
-- [Blog](https://raybo.org)
-- [LinkedIn Profile](https://www.linkedin.com/in/planetoftheweb)
-- [YouTube Channel](https://www.youtube.com/planetoftheweb)
-- [Twitter Stream](https://twitter.com/planetoftheweb) 
-- [Dribbble](https://dribbble.com/planetoftheweb)
+- [LinkedIn Profile](https://www.linkedin.com/in/michael-jin-dev)
+- [CodeRank](https://profile.codersrank.io/user/codegitpro/)
+- [GitHub](https://github.com/codegitpro) 

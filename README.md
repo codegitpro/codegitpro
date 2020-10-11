@@ -1,5 +1,8 @@
 ![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
 
+<h1>Hi Traveller, I am <a href="https://ashutoshhathidara.com/">Michael Jin</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img align='right' src="https://github.com/codegitpro/codegitpro/blob/master/my_image.jpeg" width="230" />
+
 # OVERVIEW
 
 Senior full-stack developer with over 9 years of experience building high performing presentations, layers, building reusable components, and performance optimization with **JavaScript**, **Typescript**, **HTML**, **CSS**, back-end experience with **Node**, **PHP**, **Python**. Specialized in building 20+ usable, useful, well-constructed websites and applications using **React**, **Angular**, and **Vue**. About 2 projects, implemented 10k+ users with well-designed user interface components and the overall applications are robust, easy to maintain, and resolved 1k+ errors in the presented app.

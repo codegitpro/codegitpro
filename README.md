@@ -1,15 +1,15 @@
 ![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
 
-<h1>Hi Traveller, I am <a href="https://ashutoshhathidara.com/">Michael Jin</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/codegitpro/codegitpro/blob/master/my_image.jpeg" width="230" />
+<h1>Hi Traveller, I am <a href="https://codegitpro.com/">Michael Jin</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img align='right' src="./assets/img/me/me-rectangle.png" width="230" />
 
-<a href="https://www.linkedin.com/in/michael-jin-dev"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://www.youtube.com/channel/michael_jin_dev"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
-<a href="https://github.com/codegitpro"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/michaeljindev"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:michael.jin.dev@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/michaeljindev"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/michaeljindev"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+<!-- <a href="https://www.youtube.com/channel/michael_jin_dev"><img src="./assets/img/logo/youtube-logo.png" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/michael-jin-dev"><img src="./assets/img/logo/linkedin.png" width="40" /></a>
+<a href="https://github.com/codegitpro"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/michaeljindev"><img src="./assets/img/logo/facebook.png" width="40" /></a>
+<a href="mailto:michael.jin.dev@gmail.com"><img src="./assets/img/logo/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/michaeljindev"><img src="./assets/img/logo/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/michael.jin.dev"><img src="./assets/img/logo/instagram.png" width="40" /></a>
 
 # OVERVIEW
 
@@ -41,6 +41,11 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegitpro&show_icons=true&count_private=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Content
-- [LinkedIn Profile](https://www.linkedin.com/in/michael-jin-dev)
+- [LinkedIn](https://www.linkedin.com/in/michael-jin-dev)
+- [Twitter](https://twitter.com/michaeljindev)
+- [Instagram](https://www.instagram.com/michael.jin.dev)
+- [Facebook](https://www.facebook.com/michaeljindev)
 - [CodeRank](https://profile.codersrank.io/user/codegitpro/)
 - [GitHub](https://github.com/codegitpro) 
+- [Phone](+1 (213) 814-4239)
+- [Email](michael.jin.dev@gmail.com)

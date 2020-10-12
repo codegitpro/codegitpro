@@ -7,7 +7,7 @@
 <a style="margin:10px;" href="https://www.linkedin.com/in/michael-jin-dev" target="_blank"><img src="./assets/img/logo/linkedin.png" width="40" /></a>
 <a style="margin:10px;" href="https://github.com/codegitpro" target="_blank"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
 <a style="margin:10px;" href="https://www.facebook.com/michaeljindev" target="_blank"><img src="./assets/img/logo/facebook.png" width="40" /></a>
-<a style="margin:10px;" href="mailto:michael.jin.dev@gmail.com"> target="_blank"<img src="./assets/img/logo/google-plus.png" width="40" /></a>
+<a style="margin:10px;" href="mailto:michael.jin.dev@gmail.com" target="_blank"><img src="./assets/img/logo/google-plus.png" width="40" /></a>
 <a style="margin:10px;" href="https://twitter.com/michaeljindev" target="_blank"><img src="./assets/img/logo/twitter.png" width="40" /></a>
 <a style="margin:10px;" href="https://www.instagram.com/michael.jin.dev" target="_blank"><img src="./assets/img/logo/instagram.png" width="40" /></a>
 

@@ -1,15 +1,15 @@
 ![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
 
 <h1>Hi Traveller, I am <a href="https://codegitpro.com/">Michael Jin</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="./assets/img/me/me-rectangle.png" width="230" />
+<img align='right' style="margin-left:20px;" src="./assets/img/me/me-rectangle.png" width="230" />
 
 <!-- <a href="https://www.youtube.com/channel/michael_jin_dev"><img src="./assets/img/logo/youtube-logo.png" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/michael-jin-dev"><img src="./assets/img/logo/linkedin.png" width="40" /></a>
-<a href="https://github.com/codegitpro"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/michaeljindev"><img src="./assets/img/logo/facebook.png" width="40" /></a>
-<a href="mailto:michael.jin.dev@gmail.com"><img src="./assets/img/logo/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/michaeljindev"><img src="./assets/img/logo/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/michael.jin.dev"><img src="./assets/img/logo/instagram.png" width="40" /></a>
+<a style="margin:10px;" href="https://www.linkedin.com/in/michael-jin-dev" target="_blank"><img src="./assets/img/logo/linkedin.png" width="40" /></a>
+<a style="margin:10px;" href="https://github.com/codegitpro" target="_blank"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
+<a style="margin:10px;" href="https://www.facebook.com/michaeljindev" target="_blank"><img src="./assets/img/logo/facebook.png" width="40" /></a>
+<a style="margin:10px;" href="mailto:michael.jin.dev@gmail.com"> target="_blank"<img src="./assets/img/logo/google-plus.png" width="40" /></a>
+<a style="margin:10px;" href="https://twitter.com/michaeljindev" target="_blank"><img src="./assets/img/logo/twitter.png" width="40" /></a>
+<a style="margin:10px;" href="https://www.instagram.com/michael.jin.dev" target="_blank"><img src="./assets/img/logo/instagram.png" width="40" /></a>
 
 # OVERVIEW
 

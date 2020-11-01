@@ -36,7 +36,7 @@ Creative web developer dedicated to building and optimizing the performance of h
 
 As the Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
 
-[![Anurag's's github stats](https://github-readme-stats.vercel.app/api?username=codegitpro&show_icons=true&count_private=true&theme=calm&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's's github stats](https://github-readme-stats.vercel.app/api?username=codegitpro&show_icons=true&count_private=true&theme=calm&include_all_commits=true)](https://github.com/codegitpro/codegitpro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegitpro&show_icons=true&count_private=true&langs_count=10&layout=compact&theme=calm&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 

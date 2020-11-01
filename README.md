@@ -38,7 +38,7 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 
 [![Anurag's's github stats](https://github-readme-stats.vercel.app/api?username=codegitpro&show_icons=true&count_private=true&theme=omni&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegitpro&show_icons=true&count_private=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegitpro&show_icons=true&count_private=true&langs_count=10&layout=compact&theme=omni&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Content
 - [LinkedIn](https://www.linkedin.com/in/michael-jin-dev)

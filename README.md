@@ -40,12 +40,12 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegitpro&show_icons=true&count_private=true&langs_count=10&layout=compact&theme=omni&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=angular-hero&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=electron-todo&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=nano-node&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=graphic-interview&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=pandas-bigdata&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=shopify-bulk-import&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=angular-hero&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=electron-todo&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=nano-node&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=graphic-interview&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=pandas-bigdata&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=shopify-bulk-import&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Content
 - [LinkedIn](https://www.linkedin.com/in/michael-jin-dev)

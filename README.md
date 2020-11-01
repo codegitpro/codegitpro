@@ -1,4 +1,4 @@
-![Photo](https://drive.google.com/file/d/1pWNYwbQvU2MSZE4LINjd0APgP1PBFYNf/view?usp=sharing)
+<img align='center' src="./assets/img/bg/github-bg1.png" width="100%" />
 
 <h1>Hi Traveller, I am <a href="https://codegitpro.com/">Michael Jin</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' style="margin-left:20px;" src="./assets/img/me/me-rectangle.png" width="230" />

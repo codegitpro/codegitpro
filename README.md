@@ -47,7 +47,6 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=shopify-bulk-import&show_owner=true&theme=calm)](https://github.com/codegitpro/shopify-bulk-import)
 
 ## My Content
-- [LinkedIn](https://www.linkedin.com/in/michael-jin-dev)
 - [Twitter](https://twitter.com/michaeljindev)
 - [Instagram](https://www.instagram.com/michael.jin.dev)
 - [Facebook](https://www.facebook.com/michaeljindev)
